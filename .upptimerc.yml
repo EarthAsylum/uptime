@@ -33,7 +33,7 @@ status-website:
   status-website:
     metaTags:
       - name: "robots"
-       content: "noindex"
+        content: "noindex"
   
   #navbar:
   #  - title: Status
