@@ -1,11 +1,13 @@
 # https://earthasylum.github.io/uptime/
+# https://upptime.js.org/docs/
+
 owner: EarthAsylum # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
-  - name: eacDoojigger
+  - name: '{eac}Doojigger'
     url: https://eacdoojigger.earthasylum.com
-  - name: eacSoftwareRegistry
+  - name: '{eac}SoftwareRegistry'
     url: https://swregistry.earthasylum.com
   - name: EarthAsylum.com
     url: https://earthasylum.com
@@ -13,6 +15,8 @@ sites:
     url: https://kevinburkholder.com
   - name: The Grooming Shed
     url: https://thegroomingshed.care
+  - name: EarthAsylum.net
+    url: https://dev.earthasylum.net
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
