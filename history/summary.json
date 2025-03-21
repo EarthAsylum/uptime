@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eacdoojigger.earthasylum.com.ico",
     "slug": "eac-doojigger",
     "status": "up",
-    "uptime": "98.76%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "98.76%",
-    "uptimeYear": "98.76%",
+    "uptime": "99.14%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 1159,
     "timeDay": 756,
     "timeWeek": 1159,
     "timeMonth": 1159,
     "timeYear": 1159,
     "dailyMinutesDown": {
-      "2025-03-20": 39
+      "2025-03-20": 28
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/swregistry.earthasylum.com.ico",
     "slug": "eac-software-registry",
     "status": "up",
-    "uptime": "93.21%",
-    "uptimeDay": "85.29%",
-    "uptimeWeek": "93.21%",
-    "uptimeMonth": "93.21%",
-    "uptimeYear": "93.21%",
+    "uptime": "93.75%",
+    "uptimeDay": "86.05%",
+    "uptimeWeek": "93.75%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "93.75%",
     "time": 879,
     "timeDay": 639,
     "timeWeek": 879,
     "timeMonth": 879,
     "timeYear": 879,
     "dailyMinutesDown": {
-      "2025-03-20": 212
+      "2025-03-20": 201
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/earthasylum.com.ico",
     "slug": "earth-asylum-com",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "97.16%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.14%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 476,
     "timeDay": 319,
     "timeWeek": 476,
     "timeMonth": 476,
     "timeYear": 476,
     "dailyMinutesDown": {
-      "2025-03-20": 41
+      "2025-03-20": 28
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kevinburkholder.com.ico",
     "slug": "kevin-burkholder-com",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.14%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 411,
     "timeDay": 228,
     "timeWeek": 411,
     "timeMonth": 411,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2025-03-20": 41
+      "2025-03-20": 28
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thegroomingshed.care.ico",
     "slug": "the-grooming-shed",
     "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "uptime": "99.14%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
     "time": 450,
     "timeDay": 361,
     "timeWeek": 450,
     "timeMonth": 450,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2025-03-20": 41
+      "2025-03-20": 28
     }
   },
   {
@@ -105,18 +105,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.earthasylum.net.ico",
     "slug": "earth-asylum-net",
     "status": "down",
-    "uptime": "94.14%",
-    "uptimeDay": "88.90%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "94.14%",
-    "uptimeYear": "94.14%",
+    "uptime": "91.26%",
+    "uptimeDay": "82.30%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "91.26%",
+    "uptimeYear": "91.26%",
     "time": 615,
     "timeDay": 420,
     "timeWeek": 615,
     "timeMonth": 615,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2025-03-20": 160,
+      "2025-03-21": 69,
+      "2025-03-20": 186,
       "2025-03-19": 17
     }
   }
