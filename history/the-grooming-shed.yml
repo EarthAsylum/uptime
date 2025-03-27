@@ -1,7 +1,7 @@
-url: https://thegroomingshed.care/?uptime
+url: https://thegroomingshed.care/wp-cron.php?doing_wp_cron
 status: up
 code: 200
-responseTime: 904
-lastUpdated: 2025-03-27T23:24:14.964Z
+responseTime: 85
+lastUpdated: 2025-03-27T23:29:50.719Z
 startTime: 2025-03-18T19:33:26.441Z
 generator: Upptime <https://github.com/upptime/upptime>
