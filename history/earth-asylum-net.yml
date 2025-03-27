@@ -1,7 +1,7 @@
-url: https://dev.earthasylum.net/?uptime
+url: https://earthasylum.net/wp-cron.php?doing_wp_cron
 status: up
 code: 200
-responseTime: 923
-lastUpdated: 2025-03-27T23:24:16.070Z
+responseTime: 159
+lastUpdated: 2025-03-27T23:29:51.054Z
 startTime: 2025-03-18T21:19:14.939Z
 generator: Upptime <https://github.com/upptime/upptime>
