@@ -6,17 +6,19 @@ repo: uptime # The name of this repository
 
 sites:
   - name: '{eac}Doojigger'
-    url: https://eacdoojigger.earthasylum.com/?uptime
+    url: https://eacdoojigger.earthasylum.com/wp-cron.php?doing_wp_cron
   - name: '{eac}SoftwareRegistry'
-    url: https://swregistry.earthasylum.com/?uptime
+    url: https://swregistry.earthasylum.com/wp-cron.php?doing_wp_cron
   - name: EarthAsylum.com
-    url: https://earthasylum.com/?uptime
+    url: https://earthasylum.com/wp-cron.php?doing_wp_cron
   - name: KevinBurkholder.com
-    url: https://kevinburkholder.com/?uptime
+    url: https://kevinburkholder.com/wp-cron.php?doing_wp_cron
   - name: The Grooming Shed
-    url: https://thegroomingshed.care/?uptime
+    url: https://thegroomingshed.care/wp-cron.php?doing_wp_cron
   - name: EarthAsylum.net
-    url: https://dev.earthasylum.net/?uptime
+    url: https://earthasylum.net/wp-cron.php?doing_wp_cron
+  - name: Development
+    url: https://dev.earthasylum.net/wp-cron.php?doing_wp_cron
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -34,7 +36,11 @@ status-website:
     metaTags:
       - name: "robots"
         content: "noindex"
-  
+
+  # run every 15 minutes
+  workflowSchedule:
+    uptime: "*/15 * * * *"
+
   #navbar:
   #  - title: Status
   #    href: /
