@@ -1,7 +1,7 @@
-url: https://eacdoojigger.earthasylum.com/wp-cron.php?doing_wp_cron&uptime_monitor
+url: https://eacdoojigger.earthasylum.com/wp-cron.php?uptime_monitor
 status: up
 code: 200
-responseTime: 180
-lastUpdated: 2025-03-28T05:20:51.424Z
+responseTime: 413
+lastUpdated: 2025-03-28T14:05:01.212Z
 startTime: 2025-03-18T19:33:20.761Z
 generator: Upptime <https://github.com/upptime/upptime>
