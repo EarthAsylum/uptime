@@ -6,19 +6,19 @@ repo: uptime # The name of this repository
 
 sites:
   - name: '{eac}Doojigger'
-    url: https://eacdoojigger.earthasylum.com/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://eacdoojigger.earthasylum.com/wp-cron.php?uptime_monitor
   - name: '{eac}SoftwareRegistry'
-    url: https://swregistry.earthasylum.com/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://swregistry.earthasylum.com/wp-cron.php?uptime_monitor
   - name: EarthAsylum.com
-    url: https://earthasylum.com/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://earthasylum.com/wp-cron.php?uptime_monitor
   - name: KevinBurkholder.com
-    url: https://kevinburkholder.com/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://kevinburkholder.com/wp-cron.php?uptime_monitor
   - name: The Grooming Shed
-    url: https://thegroomingshed.care/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://thegroomingshed.care/wp-cron.php?uptime_monitor
   - name: EarthAsylum.net
-    url: https://earthasylum.net/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://earthasylum.net/wp-cron.php?uptime_monitor
   - name: Development
-    url: https://dev.earthasylum.net/wp-cron.php?doing_wp_cron&uptime_monitor
+    url: https://dev.earthasylum.net/wp-cron.php?uptime_monitor
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
