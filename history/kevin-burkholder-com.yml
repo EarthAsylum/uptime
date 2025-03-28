@@ -1,7 +1,7 @@
-url: https://kevinburkholder.com/wp-cron.php?doing_wp_cron&uptime_monitor
+url: https://kevinburkholder.com/wp-cron.php?uptime_monitor
 status: up
 code: 200
-responseTime: 171
-lastUpdated: 2025-03-28T05:20:52.520Z
+responseTime: 313
+lastUpdated: 2025-03-28T14:05:02.847Z
 startTime: 2025-03-18T19:33:25.310Z
 generator: Upptime <https://github.com/upptime/upptime>
