@@ -37,9 +37,9 @@ status-website:
       - name: "robots"
         content: "noindex"
 
-  # run every 15 minutes
+  # run every 10 minutes
   workflowSchedule:
-    uptime: "*/15 * * * *"
+    uptime: "*/10 * * * *"
 
   #navbar:
   #  - title: Status
